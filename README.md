@@ -25,8 +25,8 @@ Included a summary of trade logs, showing individual trades, entry/exit points, 
 
 TASK-2 : Implemented LSTM model on NIFTY50 dataset and predicting the close prices.
 Normalization and Standardization:
-Task:
+Task: 
 Normalized and standardized the features to ensure they are on the same scale and improve model performance. This step is critical for training machine learning model.
-3. Machine Learning Model Development and Backtesting:
+Machine Learning Model Development and Backtesting:
 Task:
 Trained a LSTM model on the engineered features to predict future price movements or generate trading signals.
