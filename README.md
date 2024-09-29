@@ -1,5 +1,5 @@
 # 2-CENTS
-This repo contains the task assessments of 2-cents
+This repo contains the task assessments of 2-cents of Vyas Vedanshu.
 
 Task 1: Strategy Development and Backtesting for APPLE DATASET
 
