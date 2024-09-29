@@ -1,5 +1,6 @@
 # 2-CENTS
 This repo contains the task assessments of 2-cents
+
 Task 1: Strategy Development and Backtesting
 
 Subtasks:
